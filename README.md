@@ -6,3 +6,5 @@ My other hobbies are watching TV, reading books, gym exercise, travels, playing 
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,py,ps,vscode,mysql&perline=4)](https://skillicons.dev)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosephMorales28&theme=cobalt&show_icons=true)
