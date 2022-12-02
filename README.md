@@ -5,4 +5,4 @@ I love to create a web design,posters,banners,t-shirt printing and drawing. My g
 My other hobbies are watching TV, reading books, gym exercise, travels, playing online games like (Mobile Legends:Bang Bang, Call of Duty -Mobile, League of Legends).
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,py,ps,vscode,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,py,ps,vscode,mysql&perline=4)](https://skillicons.dev)
